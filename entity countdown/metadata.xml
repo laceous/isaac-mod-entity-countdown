@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Entity Countdown</name>
+    <directory>entity countdown</directory>
+    <id>3639660963</id>
+    <description>This mod will show you the countdown for different entities in-game. It started out targeting bomb explosions, and has added a few other things as well.
+
+Mod Config Menu can be used to enable/disable the following options:
+[list]
+    [*]Bomb explosions: Can be helpful when dealing with troll bombs that have different fuse lengths (requires repentogon)
+    [*]Epic Fetus: Shows how long until the rocket drops
+    [*]Effects: This is mostly here for debugging purposes. Epic Fetus was split out from this, maybe others in the future? If you like seeing numbers over fireplaces then this is the setting for you.
+    [*]Pickup disappearance: Includes Tainted Maggy's behavior as well as the G0NE S00N seed
+    [*]On/off spikes: See when spikes will raise or lower
+    [*]Host / Grimace: Stop shooting at hosts!
+    [*]Portal: Show spawn cycle
+    [*]Delirium: Shows when Delirium will transform (requires repentogon)
+    [*]Henry: stage 1d, goto d.485
+[/list]</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
